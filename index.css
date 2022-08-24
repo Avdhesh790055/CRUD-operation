@@ -1,0 +1,19 @@
+@media (min-width:100px) and(max-width:400px) {
+    body{
+        display: block;
+        text-align: center;
+        margin: 0px;
+        background-color: aqua;
+        margin: 0px;
+
+    }
+}
+
+
+
+
+/*@media(min-width:320px) and (max-width:767px) {
+
+}
+
+*/
